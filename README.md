@@ -2,6 +2,16 @@
 
 ## 0x00. Shell, navigation
 
+<details>
+<summary>quiz</summary>
+
+![Alt text](img/image-1.png)
+![Alt text](img/image-2.png)
+![Alt text](img/image-3.png)
+![Alt text](img/image-4.png)
+
+</details>
+
 `cd /root`
 
 Change your working directory to /root
@@ -55,6 +65,13 @@ all
 ---
 
 ## 0x01. Emacs
+
+<details>
+<summary>quiz</summary>
+
+![Alt text](img/image-5.png)
+
+</details>
 
 Navigate to /root and create a directory named 0x01_emacs
 
@@ -110,7 +127,12 @@ all
 
 ## 0x02. vi
 
+<details>
+<summary>quiz</summary>
+
 ![Alt text](img/image.png)
+
+</details>
 
 Navigate to /root and create a directory named 0x02_vi
 
